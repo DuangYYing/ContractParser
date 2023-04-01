@@ -11,7 +11,6 @@ def extract_text_from_pdf(pdf_path):
             page = pdf_reader.pages[page_num]
             page_text = page.extract_text()
             contract_text += page_text
-    # print(json.dumps(contract_text))
     return contract_text
 
 # Extract attributes from text
