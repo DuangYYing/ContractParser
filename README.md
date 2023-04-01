@@ -18,8 +18,8 @@ pip3 install -r requirements.txt
 Clone this repository and navigate to the project folder.
 
 ```sh
-git clone https://github.com/yourusername/pdf-contract-parser.git
-cd pdf-contract-parser
+git clone https://github.com/DuangYYing/ContractParser.git
+cd ContractParser
 ```
 
 ## Usage
