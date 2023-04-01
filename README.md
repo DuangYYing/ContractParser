@@ -28,3 +28,4 @@ cd ContractParser
 python3 main.py contract.pdf
 
 ```
+Then the output results will save on the output.text
