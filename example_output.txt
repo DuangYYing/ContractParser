@@ -1,0 +1,989 @@
+======Attributes===============:
+Contract Number: FA8232-19-D-0005
+Rating: DO: A1
+Effective Date: 8 APR 2019
+Request Project: MULTIPLE PR  FA823217R3034 
+Contract Officer: None
+Date Signed: 5APR2019
+======Line Items===============:
+1. {'Item No': '0001', 'items': 'Quantity,U/I,Estimated Unit Cost,Fee Percentage,Total Estimated Cost', 'values': 'See,Pricing,Attachment'}
+2. {'Item No': '0002', 'items': 'Quantity,U/I,Unit Price,Amount', 'values': 'See,Pricing,Attachment'}
+3. {'Item No': '0003', 'items': 'Quantity,U/I,Unit Price,Amount', 'values': 'See,Pricing,Attachment'}
+4. {'Item No': '0004', 'items': 'Quantity,U/I,Unit Price,Amount', 'values': 'See,Pricing,Attachment'}
+5. {'Item No': '0005', 'items': 'Quantity,U/I,Unit Price,Amount', 'values': 'See,Pricing,Attachment'}
+6. {'Item No': '0006', 'items': 'Quantity,U/I,Estimated Unit Cost,Fee Percentage,Estimated Total Price', 'values': 'See,Pricing,Attachment'}
+7. {'Item No': '0007', 'items': 'Quantity,U/I,Estimated Unit Cost,Fee Percentage,Estimated Total Price', 'values': 'See,Pricing,Attachment'}
+8. {'Item No': '0008', 'items': 'Quantity,U/I,Estimated,Unit Price,Fee Percentage,Total Estimated Cost', 'values': '1,LO,10.00%,See,Pricing,Attachment'}
+9. {'Item No': '0009', 'items': 'Quantity,U/I,Unit Price,Amount', 'values': 'See,Pricing,Attachment'}
+10. {'Item No': '0010', 'items': 'Quantity,U/I,Unit Price,Amount', 'values': 'See,Pricing,Attachment'}
+11. {'Item No': '0011', 'items': 'Quantity,U/I,Unit Price,Amount', 'values': 'See,Pricing,Attachment'}
+12. {'Item No': '0012', 'items': 'Quantity,U/I,Unit Price,Amount', 'values': 'See,Pricing,Attachment'}
+13. {'Item No': '0013', 'items': 'Quantity,U/I,Unit Price,Amount', 'values': 'See,Pricing,Attachment'}
+14. {'Item No': '0014', 'items': 'Quantity,U/I,Estimated Unit Cost,Fee Percentage,Estimated Total Price', 'values': 'See,Pricing,Attachment'}
+15. {'Item No': '0015', 'items': 'Quantity,U/I,Est,Unit Cost,Total Estimated Cost', 'values': 'TBC,on,Individual,Orders'}
+16. {'Item No': '0017', 'items': 'Quantity,U/I,Unit Price,Amount', 'values': 'See,Pricing,Attachment'}
+17. {'Item No': '0018', 'items': 'Quantity,U/I,Unit Price,Amount', 'values': 'See,Pricing,Attachment'}
+======Clauses=================:
+5352.201-9101 OMBUDSMAN (JUN 2016)
+(IAW AFFARS 5301.9103)
+(c) If resolution cannot be made by the contracting officer, the interested party may contact the ombudsman, Jonna Hancey at 
+801 777 -6549   , FAX 801 777 -6830 , email jonna.hancey@us.af.mil . Concerns, issues, disagreements, and 
+recommendations that cannot be resolved at the Center/MAJCOM/DRU/SMC ombudsman level, may be brought by the 
+interested party for further consideration to the Air Force ombudsman, Associate Deputy Assistant Secretary (ADAS) 
+(Contracting), SAF/AQC, 1060 Air Force Pentagon, Washington DC 20330-1060, phone number (571) 256-2395, facsimile 
+number (571) 256-2431.
+(Applicable to all solicitations and contracts)
+
+52.202-1     DEFINITIONS (NOV 2013)
+(IAW FAR 2.201)
+(Applicable when the simplified acquisition threshold is exceeded)
+
+52.203-3     GRATUITIES (APR 1984)
+(IAW FAR 3.202)
+(Applicable when simplified acquisition threshold is exceeded, except for personal services and those between military 
+departments or defense agencies and foreign governments that do not obligate any funds appropriated to the Department of 
+Defense)
+
+52.203-5     COVENANT AGAINST CONTINGENT FEES (MAY 2014)
+(IAW FAR 3.404)
+(Applicable when simplified acquisition threshold is exceeded other than those for commercial items (see Parts 2 and 12))
+
+52.203-6     RESTRICTIONS ON SUBCONTRACTOR SALES TO THE GOVERNMENT (SEP 2006)
+(IAW FAR 3.503-2)Page 20 of 39
+                                                             FA8232-19-D-0005                                       
+(Applicable when the simplified acquisition threshold is exceeded)
+
+52.203-7     ANTI-KICKBACK PROCEDURES (MAY 2014)
+(IAW FAR 3.502-3)
+(Applicable when the simplified acquisition threshold is exceeded)
+
+52.203-8     CANCELLATION, RESCISSION, AND RECOVERY OF FUNDS FOR ILLEGAL OR 
+IMPROPER ACTIVITY (MAY 2014)
+(IAW FAR 3.104-9(a))
+(Applicable when noncommercial and the simplified acquisition threshold is exceeded)
+
+52.203-10    PRICE OR FEE ADJUSTMENT FOR ILLEGAL OR IMPROPER ACTIVITY (MAY 2014)
+(IAW FAR 3.104-9(b))
+(Applicable when the simplified acquisition threshold is exceeded)
+
+52.203-12    LIMITATION ON PAYMENTS TO INFLUENCE CERTAIN FEDERAL TRANSACTIONS 
+(OCT 2010)
+(IAW FAR 3.808(b))
+(Applicable over $150,000)
+
+52.203-13    CONTRACTOR CODE OF BUSINESS ETHICS AND CONDUCT (OCT 2015)
+(IAW FAR 3.1004(a))
+(Applicable to solicitations and contracts exceeding $5.5 million and the period of performance is greater than 120 days, unless 
+for the acquisition of a commercial item under Part 12 or performed entirely outside the U.S.)
+
+52.203-19    PROHIBITION ON REQUIRING CERTAIN INTERNAL CONFIDENTIALITY 
+AGREEMENTS OR STATEMENTS (JAN 2017)
+(IAW FAR 3.909-3 (b))
+(Applicable in all solicitations and resultant contracts other than personal services contracts with individuals)
+
+252.203-7000 REQUIREMENTS RELATING TO COMPENSATION OF FORMER DOD OFFICIALS 
+(SEP 2011)
+(IAW DFARS 203.171-4(a), DFARS 212.301(f)(ii))
+(Applicable to all solicitations and contracts)
+
+252.203-7001 PROHIBITION ON PERSONS CONVICTED OF FRAUD OR OTHER DEFENSE-
+CONTRACT-RELATED FELONIES (DEC 2008)
+(IAW DFARS 203.570-3)
+(Applicable when exceeding the simplified acquisition threshold (except for commercial items))
+
+252.203-7002 REQUIREMENT TO INFORM EMPLOYEES OF WHISTLEBLOWER RIGHTS 
+(SEP 2013)
+(IAW DFARS 203.970)
+(Applicable to all solicitations and contracts)
+
+252.203-7003 AGENCY OFFICE OF THE INSPECTOR GENERAL (DEC 2012)
+(IAW DFARS 203.1004(a), DFARS 212.301(f)(iii))
+(Applicable to solicitations and contracts when FAR 52.203-13 is included)
+
+252.203-7004 DISPLAY OF HOTLINE POSTERS (OCT 2016)
+(IAW DFARS 203.1004(b)(2)(ii))Page 21 of 39
+                                                             FA8232-19-D-0005                                       
+(Applicable to acquisitions over $5.5 million, except for commercial items)
+
+52.204-2     SECURITY REQUIREMENTS (AUG 1996)
+(IAW FAR 4.404(a))
+(Applicable when access to classified information may be required)
+
+52.204-4     PRINTED OR COPIED DOUBLE-SIDED ON RECYCLED PAPER (MAY 2011)
+(IAW FAR 4.303)
+(Applicable when the simplified acquisition threshold is exceeded)
+
+52.204-9     PERSONAL IDENTITY VERIFICATION OF CONTRACTOR PERSONNEL (JAN 2011)
+(IAW FAR 4.1303)
+
+52.204-13    SYSTEM FOR AWARD MANAGEMENT MAINTENANCE (OCT 2018)
+(IAW FAR 4.1105(b))
+(Applicable to solicitations that contain the provision at 52.204-7, and resulting contracts)
+
+52.204-18    COMMERCIAL AND GOVERNMENT ENTITY CODE MAINTENANCE (JUL 2016)
+(IAW FAR 4.1804(c), FAR 12.301(d))
+(Applicable when there is a requirement to be registered in SAM or to have a DUNS Number)
+
+52.204-19    INCORPORATION BY REFERENCE OF REPRESENTATIONS AND CERTIFICATIONS 
+(DEC 2014)
+(IAW FAR 4.1202(b))
+(Applicable to all solicitations and contracts)
+
+52.204-21    BASIC SAFEGUARDING OF COVERED CONTRACTOR INFORMATION SYSTEMS 
+(JUN 2016)
+(IAW FAR 4.1903)
+(Applicable to all solicitations and contracts, except COTs, when a contractor’s system may contain Federal contract 
+information)
+
+52.204-23    PROHIBITION ON CONTRACTING FOR HARDWARE, SOFTWARE, AND SERVICES 
+DEVELOPED OR PROVIDED BY KASPERSKY LAB AND OTHER COVERED 
+ENTITIES (JUL 2018)
+(IAW FAR 4.2004)
+
+52.204-23    BASIC AGREEMENT APPLICABILITY (JUL 2018)
+
+252.204-7000 DISCLOSURE OF INFORMATION (OCT 2016)
+(IAW DFARS 204.404-70(a))
+
+252.204-7003 CONTROL OF GOVERNMENT PERSONNEL WORK PRODUCT (APR 1992)
+(IAW DFARS 204.404-70(b))
+(Applicable to all orders issued hereunder)
+
+252.204-7005 ORAL ATTESTATION OF SECURITY RESPONSIBILITIES (NOV 2001)
+(IAW DFARS 204.404-70(c))
+(Applicable when clause FAR 52.204-2, Security Requirements, is included)Page 22 of 39
+                                                             FA8232-19-D-0005                                       
+
+252.204-7012 SAFEGUARDING COVERED DEFENSE INFORMATION AND CYBER INCIDENT 
+REPORTING (OCT 2016)
+(IAW DFARS 204.7304(c))
+(Applicable to all solicitations and contracts, including commercial except when solely for commercial-off-the-shelf items)
+
+252.204-7015 NOTICE OF AUTHORIZED DISCLOSURE OF INFORMATION FOR LITIGATION 
+SUPPORT (MAY 2016)
+(IAW DFARS 204.7403(c), DFARS 212.301(f)(ix))
+(Applicable to solicitations and contracts that involve litigation support services when 252.204-7014 is not included)
+
+5352.204-9000 NOTIFICATION OF GOVERNMENT SECURITY ACTIVITY AND VISITOR GROUP 
+SECURITY AGREEMENTS (OCT 2017)
+(IAW AFFARS 5304.404-90)
+
+252.205-7000 PROVISION OF INFORMATION TO COOPERATIVE AGREEMENT HOLDERS 
+(DEC 1991)
+(IAW DFARS 205.470, DFARS 212.301(f)(x))
+(Applicable over $1,000,000)
+
+52.209-6     PROTECTING THE GOVERNMENT'S INTEREST WHEN SUBCONTRACTING WITH 
+CONTRACTORS DEBARRED, SUSPENDED, OR PROPOSED FOR DEBARMENT 
+(OCT 2015)
+(IAW FAR 9.409)
+(Applicable when exceeding $35,000)
+
+52.209-9     UPDATES OF PUBLICLY AVAILABLE INFORMATION REGARDING 
+RESPONSIBILITY MATTERS (OCT 2018)
+(IAW FAR 9.104-7(c))
+(Applicable to solicitations and contracts over $550,000 and contracts where the offeror has checked “has” in paragraph (b) 
+clause 52.209-7)
+
+52.209-10    PROHIBITION ON CONTRACTING WITH INVERTED DOMESTIC CORPORATIONS 
+(NOV 2015)
+(IAW FAR 9.108-5(b))
+(Applicable to all solicitations and contracts for the acquisition of products and services (including construction) unless waived 
+IAW FAR 9.108-4)
+
+252.209-7004 SUBCONTRACTING WITH FIRMS THAT ARE OWNED OR CONTROLLED BY THE 
+GOVERNMENT OF A COUNTRY THAT IS A STATE SPONSOR OF TERRORISM 
+(OCT 2015)
+(IAW DFARS 209.409)
+(Applicable to solicitations and contracts with a value of $150,000 or more)
+
+52.210-1     MARKET RESEARCH (APR 2011)
+(IAW FAR 10.003)
+(Applicable to solicitations and contracts over $5.5 million for the procurement of items other than commercial items)
+
+52.211-5     MATERIAL REQUIREMENTS (AUG 2000)
+(IAW FAR 11.304)
+(Applicable to supplies that are not commercial items)Page 23 of 39
+                                                             FA8232-19-D-0005                                       
+
+52.211-15    DEFENSE PRIORITY AND ALLOCATION REQUIREMENTS (APR 2008)
+(IAW FAR 11.604(b))
+This is a rated order certified for national defense , emergency preparedness, and energy program use, and the Contractor shall 
+follow all the requirements of the Defense Priorities and Allocations System regulation (15 CFR 700).
+(Applicable to all rated orders)
+
+252.211-7003 ITEM UNIQUE IDENTIFICATION AND VALUATION (MAR 2016)
+(IAW DFARS 211.274-6(a)(1), DFARS 212.301(f)(xii))
+(a) Definitions . As used in this clause—
+“DoD recognized unique identification equivalent” means a unique identification method that is in commercial use and has 
+been recognized by DoD. All DoD recognized unique identification equivalents are listed at 
+http://www.acq.osd.mil/dpap/pdi/uid/iuid/equivalents.html .
+“Unique item identifier type” means a designator to indicate which method of uniquely identifying a part has been used. The 
+current list of accepted unique item identifier types is maintained at  http://www.acq.osd.mil/dpap/pdi/uid/uii_types.html  .
+(c) Unique item identifier.
+(1) The Contractor shall provide a unique item identifier for the following:
+(i) Delivered items for which the Government’s unit acquisition cost is $5,000 or more, except for the 
+following line items:
+Contract Line, Subline, or
+Exhibit Line Item NumberItem Description
+See Schedule as Applicable
+(ii) Items for which the Government’s unit acquisition cost is less than $5,000 that are identified in the 
+Schedule or the following table:
+Contract Line, Subline, or
+Exhibit Line Item NumberItem Description
+*Items less than $5000, which require UID, will be specifically identified in 
+the schedule.See Schedule as Applicable
+(iii) Subassemblies, components, and parts embedded within delivered items, items with warranty 
+requirements, DoD serially managed reparables and DoD serially managed nonreparables as specified in 
+Attachment Number _____( or See Schedule as Applicable).
+(iv) Any item of special tooling or special test equipment as defined in FAR 2.101 that have been designated 
+for preservation and storage for a Major Defense Acquisition Program as specified in Attachment Number 
+_____( or See Schedule as Applicable).
+(v) Any item not included in paragraphs (c)(1)(i), (ii), (iii), or (iv) of this clause for which the contractor 
+creates and marks a unique item identifier for traceability.
+(f) The Contractor shall submit the information required by paragraphs (d) and (e) of this clause as follows:
+(1) End items shall be reported using the receiving report capability in Wide Area WorkFlow (WAWF) in accordance 
+with the clause at 252.232-7003. If WAWF is not required by this contract, and the contractor is not using WAWF, 
+follow the procedures at http://dodprocurementtoolbox.com/site/uidregistry/ .
+(2) Embedded items shall be reported by one of the following methods—
+(i) Use of the embedded items capability in WAWF;
+(ii) Direct data submission to the IUID Registry following the procedures and formats at 
+http://dodprocurementtoolbox.com/site/uidregistry/; or
+(iii) Via WAWF as a deliverable attachment for exhibit line item number ______, Unique Item Identifier 
+Report for Embedded Items, Contract Data Requirements List, DD Form 1423.Page 24 of 39
+                                                             FA8232-19-D-0005                                       
+(Applicable when delivery of one or more “items” as defined at 252.211-7003(c) is required)
+
+252.211-7007 REPORTING OF GOVERNMENT-FURNISHED PROPERTY (AUG 2012)
+(IAW DFARS 211.274-6(b), DFARS 212.301(f)(iv))
+(Applicable when FAR 52.245-1, Government Property, is used)
+
+52.215-2     AUDIT AND RECORDS--NEGOTIATION (OCT 2010)
+(IAW FAR 15.209(b)(1))
+(Applicable if negotiated and above the simplified acquisition threshold, except commercial items and utility services at public 
+prices plus reasonable connection charge)
+
+52.215-8     ORDER OF PRECEDENCE--UNIFORM CONTRACT FORMAT (OCT 1997)
+(IAW FAR 15.209(h), AFFARS 53.15.209(h))
+(Applicable when using uniform contract format that is not commercial or for construction)
+
+52.215-10    PRICE REDUCTION FOR DEFECTIVE CERTIFIED COST OR PRICING DATA 
+(AUG 2011)
+(IAW FAR 15.408(b))
+(Applicable if negotiated and exceeding $750,000, when certified cost or pricing data is required)
+
+52.215-12    SUBCONTRACTOR CERTIFIED COST OR PRICING DATA (DEVIATION 2018-O0015) 
+(MAY 2018) (MAY 2018)
+(IAW DARS Tracking Number: 2018-O0015)
+
+52.215-14    INTEGRITY OF UNIT PRICES (OCT 2010)
+(IAW FAR 15.408(f)(1))
+(Applicable when negotiated and exceeding the simplified acquisition threshold)
+
+52.215-14    INTEGRITY OF UNIT PRICES -- ALTERNATE I (OCT 1997)
+(IAW FAR 15.408(f)(2))
+(Alternate I is applicable when negotiated and exceeding the simplified acquisition threshold and contracting was without full 
+and open competition)
+
+52.215-15    PENSION ADJUSTMENTS AND ASSET REVERSIONS (OCT 2010)
+(IAW FAR 15.408(g))
+(Applicable exceeding $750,000, when certified cost or pricing data is required, or for which any preaward or postaward cost 
+determinations are subject to Part 31)
+
+52.215-17    WAIVER OF FACILITIES CAPITAL COST OF MONEY (OCT 1997)
+(IAW FAR 15.408(i))
+
+52.215-18    REVERSION OR ADJUSTMENT OF PLANS FOR POSTRETIREMENT BENEFITS 
+(PRB) OTHER THAN PENSIONS (JUL 2005)
+(IAW FAR 15.408(j))
+(Applicable exceeding $750,000 when cost or pricing data is required, or for which any preaward or postaward cost 
+determinations are subject to Part 31)
+
+52.215-19    NOTIFICATION OF OWNERSHIP CHANGES (OCT 1997)
+(IAW FAR 15.408(k))
+(Applicable exceeding $750,000 when certified cost or pricing data is required, or for which any preaward or postaward cost 
+determinations are subject to Part 31)Page 25 of 39
+                                                             FA8232-19-D-0005                                       
+
+52.215-23    LIMITATIONS ON PASS-THROUGH CHARGES (OCT 2009)
+(IAW FAR 15.408(n)(2))
+(Applicable to orders issued hereunder)
+
+252.215-7002 COST ESTIMATING SYSTEM REQUIREMENTS (DEC 2012)
+(IAW DFARS 215.408(1))
+(Applicable to any order awarded on the basis of certified cost or pricing data)
+
+252.215-7014 EXCEPTION FROM CERTIFIED COST OR PRICING DATA REQUIREMENTS FOR 
+FOREIGN MILITARY SALES INDIRECT OFFSETS (JUL 2018)
+(IAW DFARS 215.408 (8))
+
+52.216-7     ALLOWABLE COST AND PAYMENT (AUG 2018)
+(IAW FAR 16.307(a))
+(a) Invoicing.
+(3) The designated payment office will make interim payments for contract financing on the _ 30th day
+(Applicable when specifying cost-reimbursement pricing arrangement)
+
+52.216-8     FIXED FEE (JUN 2011)
+(IAW FAR 16.307(b))
+(Applicable when specifying cost-plus-fixed-fee pricing arrangement)
+
+52.216-11    COST CONTRACT--NO FEE (APR 1984)
+(IAW FAR 16.307(e)(1))
+(Applicable when specifying cost reimbursement providing no fee and not a cost-sharing contract)
+
+52.216-19    ORDER LIMITATIONS (OCT 1995)
+(IAW FAR 16.506(b))
+(a)Minimum order . When the Government requires supplies or services covered by this contract in an amount of less than 
+$ 50,000.00 , the Government is not obligated to purchase, nor is the Contractor obligated to furnish, those supplies or services 
+under the contract.
+(b)Maximum order . The Contractor is not obligated to honor--
+(1) Any order for a single item in excess of $ 20,000,000.00 ;
+(2) Any order for a combination of items in excess of $ 25,000,000.00 ; or
+(3) A series of orders from the same ordering office within 15 days that together call for quantities exceeding the 
+limitation in subparagraph (b)(1) or (2) of this section.
+(c) If this is a requirements contract ( i.e., includes the Requirements clause at subsection 52.216-21 of the Federal Acquisition 
+Regulation (FAR)), the Government is not required to order a part of any one requirement from the Contractor if that 
+requirement exceeds the maximum-order limitations in paragraph (b) of this section.
+(d) Notwithstanding paragraphs (b) and (c) of this section, the Contractor shall honor any order exceeding the maximum order
+limitations in paragraph (b), unless that order (or orders) is returned to the ordering office within 10 days after issuance, with 
+written notice stating the Contractor's intent not to ship the item (or items) called for and the reasons. Upon receiving this 
+notice, the Government may acquire the supplies or services from another source.
+(Applicable to all orders issued hereunder)Page 26 of 39
+                                                             FA8232-19-D-0005                                       
+
+52.216-22    INDEFINITE QUANTITY (OCT 1995)
+(IAW FAR 16.506(e))
+(d) Contractor shall not be required to make any deliveries under this contract after 28-FEB-2025 .
+(Applicable to all orders issued hereunder)
+
+252.216-7006 ORDERING (MAY 2011)
+(IAW DFARS 216.506(a))
+(a) Any supplies and services to be furnished under this contract shall be ordered by issuance of delivery orders or task orders 
+by the individuals or activities designated in the contract schedule. Such orders may be issued from 08-APR-2019 through 31-
+DEC-2023 . 
+(Applicable to solicitations and contracts when a definite-quantity contract, a requirements contract, or an indefinite-quantity 
+contract is contemplated)
+
+52.219-8     UTILIZATION OF SMALL BUSINESS CONCERNS (OCT 2018)
+(IAW FAR 19.708(a))
+(Applicable when exceeding the simplified acquisition threshold, except for personal service contracts or when performance is
+entirely outside of the United States and its outlying areas)
+
+52.219-9     SMALL BUSINESS SUBCONTRACTING PLAN (DEVIATION 2018-O0018) (AUG 2018)
+(IAW DARS TRCKING #  2018-O0018)
+(Applicable over $700,000)
+
+52.219-16    LIQUIDATED DAMAGES--SUBCONTRACTING PLAN (JAN 1999)
+(IAW FAR 19.708(b)(2))
+(Applicable when FAR 52.219-9, Small Business Subcontracting Plan, or its Alternate I or Alternate II applies. IAW DFARS 
+219.708(b)(2), does not apply to DoD in contracts with contractors that have comprehensive subcontracting plans approved 
+under the test program described in DFARS 219.702)
+
+52.219-28    POST-AWARD SMALL BUSINESS PROGRAM REREPRESENTATION (JUL 2013)
+(IAW FAR 19.309(c))
+(g) If the Contractor does not have representations and certifications in SAM, or does not have a representation in SAM for the 
+NAICS code applicable to this contract, the Contractor is required to complete the following rerepresentation and submit it to 
+the contracting office, along with the contract number and the date on which the rerepresentation was completed: 
+The Contractor represents that it [  ] is, [  ] is not a small business concern under NAICS Code _____________
+assigned to contract number ______________________________ .
+[Contractor to sign and date and insert authorized signer's name and title ].
+(Applicable in solicitations and contracts exceeding the micro-purchase threshold when the contract will be performed in the 
+United States or its outlying areas)
+
+252.219-7003 SMALL BUSINESS SUBCONTRACTING PLAN (DoD CONTRACTS)--BASIC 
+(DEVIATION 2018-O0007) (DEC 2017)
+(IAW DARS Tracking # 2018-O0007)
+This clause supplements the Federal Acquisition Regulation 52.219-9, Small Business Subcontracting Plan, clause of this 
+contract.
+(a) Definitions. “Summary Subcontract Report (SSR) Coordinator,” as used in this clause, means the individual who is registered 
+in the Electronic Subcontracting Reporting System (eSRS) at the Department of Defense (9700) and is responsible for 
+acknowledging receipt or rejecting SSRs in eSRS for the Department of Defense.Page 27 of 39
+                                                             FA8232-19-D-0005                                       
+(b) Subcontracts awarded to workshops approved by the Committee for Purchase from People Who are Blind or Severely 
+Disabled (41 U.S.C. 8502-8504), may be counted toward the Contractor’s small business subcontracting goal.
+(c) A mentor firm, under the Pilot Mentor-Protege Program established under section 831 of Public Law 101-510, as amended, 
+may count toward its small disadvantaged business goal, subcontracts awarded to—
+(1) Protege firms which are qualified organizations employing the severely disabled; and
+(2) Former protege firms that meet the criteria in section 831(g)(4) of Public Law 101-510.
+(d) The master plan is approved by the Contractor's cognizant contract administration activity.
+(e) In those subcontracting plans which specifically identify small businesses, the Contractor shall notify the Administrative 
+Contracting Officer of any substitutions of firms that are not small business firms, for the small business firms specifically 
+identified in the subcontracting plan.  Notifications shall be in writing and shall occur within a reasonable period of time after 
+award of the subcontract.  Contractor-specified formats shall be acceptable.
+(f) (1) For DoD, the Contractor shall submit reports in eSRS as follows: 
+(i) The Individual Subcontract Report (ISR) shall be submitted to the contracting officer at the procuring 
+contracting office, even when contract administration has been delegated to the Defense Contract 
+Management Agency.
+(ii) Submit the consolidated SSR for an individual subcontracting plan by selecting “Department of Defense 
+(DoD)(9700) from the top of the second dropdown menu in the Government agency in Block 7 (“Agency to 
+which the report is being submitted”). The contractor shall not select anything lower.
+(2) For DoD, the authority to acknowledge receipt or reject reports in eSRS is as follows:
+(i) The authority to acknowledge receipt or reject the ISR resides with the contracting officer who receives 
+it, as described in paragraph (f)(1)(i) of this clause.
+(ii) The authority to acknowledge receipt of or reject SSRs resides with the SSR Coordinator.
+
+252.219-7003 SMALL BUSINESS SUBCONTRACTING PLAN (DoD CONTRACTS--ALTERNATE I 
+(DEVIATION 2018-O0007) (DEC 2017)
+(IAW DARS Tracking # 2018-O0007)
+This clause supplements the Federal Acquisition Regulation 52.219-9, Small Business Subcontracting Plan, clause of this 
+contract.
+(a) Definitions. “Summary Subcontract Report (SSR) Coordinator,” as used in this clause, means the individual who is registered 
+in the Electronic Subcontracting Reporting System (eSRS) at the Department of Defense (9700) and is responsible for 
+acknowledging receipt or rejecting SSRs in eSRS for the Department of Defense.
+(b) Subcontracts awarded to workshops approved by the Committee for Purchase from People Who are Blind or Severely 
+Disabled (41 U.S.C. 8502-8504), may be counted toward the Contractor’s small business subcontracting goal.
+(c) A mentor firm, under the Pilot Mentor-Protege Program established under section 831 of Public Law 101-510, as amended, 
+may count toward its small disadvantaged business goal, subcontracts awarded to—
+(1) Protege firms which are qualified organizations employing the severely disabled; and
+(2) Former protege firms that meet the criteria in section 831(g)(4) of Public Law 101-510.
+(d) The master plan is approved by the Contractor's cognizant contract administration activity.
+(e) In those subcontracting plans which specifically identify small businesses, the Contractor shall notify the Administrative 
+Contracting Officer of any substitutions of firms that are not small business firms, for the small business firms specifically 
+identified in the subcontracting plan.  Notifications shall be in writing and shall occur within a reasonable period of time after 
+award of the subcontract.  Contractor-specified formats shall be acceptable.
+(f) (1) For DoD, the Contractor shall submit reports in eSRS as follows:
+(i) The Standard Form 294, Subcontracting Report for Individual Contracts, shall be submitted in accordance 
+with the instructions on that form.Page 28 of 39
+                                                             FA8232-19-D-0005                                       
+(ii) Submit the consolidated SSR for an individual subcontracting plan in eSRS by selecting “Department of 
+Defense (DoD) (9700)” from the top of the second dropdown menu in the Government agency in Block 7 
+(“Agency to which the report is being submitted”). The Contractor shall not select anything lower.
+(2) For DoD, the authority to acknowledge receipt of or reject SSRs in eSRS resides with the SSR Coordinator.
+(Applicable to classified or sensitive solicitations and contracts over $700,000)
+
+252.219-7004 SMALL BUSINESS SUBCONTRACTING PLAN (TEST PROGRAM) (APR 2018)
+(IAW DFARS 219.708(b)(1)(B))
+(Applicable when the contract includes a Comprehensive Subcontracting Plan)
+
+52.222-19    CHILD LABOR--COOPERATION WITH AUTHORITIES AND REMEDIES (JAN 2018)
+(IAW FAR 22.1505(b))
+(Applicable for supplies that exceed the micro-purchase threshold)
+
+52.222-20    CONTRACTS FOR MATERIALS, ARTICLES, AND EQUIPMENT EXCEEDING $15,000 
+(MAY 2014)
+(IAW FAR 22.610)
+(Applicable to all orders issued hereunder)
+
+52.222-21    PROHIBITION OF SEGREGATED FACILITIES (APR 2015)
+(IAW FAR 22.810(a)(1))
+(Applicable when exceeding $10,000, except those exempted by FAR 22.807 (b) which includes those for work to be performed 
+outside the U.S. by employees who were not recruited within the U.S.)
+
+52.222-26    EQUAL OPPORTUNITY (SEP 2016)
+(IAW FAR 22.810(e))
+(Applicable to all orders issued hereunder)
+
+52.222-35    EQUAL OPPORTUNITY FOR VETERANS (OCT 2015)
+(IAW FAR 22.1310(a)(1), DFARS 222.1310(a)(1))
+(Applicable when the expected value is $150,000 or more except when work is performed outside the United States by 
+employees recruited outside the United States or the Director, Office of Federal Contract Compliance Programs, has waived, in 
+accordance with 22.1305(b), all of the terms of the clause)
+
+52.222-36    EQUAL OPPORTUNITY FOR WORKERS WITH DISABILITIES (JUL 2014)
+(IAW FAR 22.1408(a))
+(Applicable over $15,000 except when performance of work and recruitment of workers will occur outside the United States, 
+Puerto Rico, the Northern Mariana Islands, American Samoa, Guam, the U.S. Virgin Islands, and Wake Island, or the agency 
+head has waived, in accordance with 22.1403(a) or 22.1403(b) all the terms of the clause)
+
+52.222-37    EMPLOYMENT REPORTS ON VETERANS (FEB 2016)
+(IAW FAR 22.1310(b))
+(Applicable when the expected value is $150,000 or more and workers were recruited within the United States)
+
+52.222-40    NOTIFICATION OF EMPLOYEE RIGHTS UNDER THE NATIONAL LABOR 
+RELATIONS ACT (DEC 2010)
+(IAW FAR 22.1605)
+(Applicable to all solicitations and contracts except under the simplified acquisition threshold, for work performed exclusively 
+outside the U.S., or covered in their entirety by an exemption granted by the Secretary)Page 29 of 39
+                                                             FA8232-19-D-0005                                       
+
+52.222-43    FAIR LABOR STANDARDS ACT AND SERVICE CONTRACT LABOR STANDARDS--
+PRICE ADJUSTMENT (MULTIPLE YEAR AND OPTION CONTRACTS) (AUG 2018)
+(IAW FAR 22.1006(c)(1))
+
+52.222-50    COMBATING TRAFFICKING IN PERSONS (JAN 2019)
+(IAW FAR 22.1705(a)(1))
+(Applicable to all orders issued hereunder)
+
+252.222-7006 RESTRICTIONS ON THE USE OF MANDATORY ARBITRATION AGREEMENTS 
+(DEC 2010)
+(IAW DFARS 222.7405)
+(Applicable to contracts in excess of $1 million utilizing funds appropriated by the FY10 or subsequent DoD appropriations acts, 
+except in contracts for the acquisition of commercial items and commercially available off-the-shelf items)
+
+52.223-3     HAZARDOUS MATERIAL IDENTIFICATION AND MATERIAL SAFETY DATA 
+(JAN 1997)
+(IAW FAR 23.303(a))
+(b) The offeror must list any hazardous material, as defined in paragraph (a) of this clause, to be delivered under this contract.
+ID NUMBER MATERIAL (If None, Insert “None.”)
+LI 0001 None
+LI 0002 None
+LI 0003 None
+LI 0004 None
+LI 0005 None
+LI 0006 None
+LI 0007 None
+LI 0008 None
+LI 0009 None
+LI 0010 None
+LI 0011 None
+LI 0012 None
+LI 0013 None
+LI 0014 None
+LI 0015 None
+LI 0017 None
+LI 0018 None
+LI 0019 None
+LI 0020 None
+LI 0021 None
+
+52.223-6     DRUG-FREE WORKPLACE (MAY 2001)
+(IAW FAR 23.505)
+(Applicable when the simplified acquisition threshold is exceeded except if performance is entirely outside the U.S. and its 
+outlying areas)
+
+52.223-18    ENCOURAGING CONTRACTOR POLICIES TO BAN TEXT MESSAGING WHILE 
+DRIVING (AUG 2011)
+(IAW FAR 23.1105)
+(Applicable to all solicitations and contracts)Page 30 of 39
+                                                             FA8232-19-D-0005                                       
+
+252.223-7001 HAZARD WARNING LABELS (DEC 1991)
+(IAW DFARS 223.303)
+(c) The Offeror shall list which hazardous material listed in the Hazardous Material Identification and Material Safety Data 
+clause of this contract will be labeled in accordance with one of the Acts in paragraphs (b)(1) through (5) of this clause instead 
+of the Hazard Communication Standard.  Any hazardous material not listed will be interpreted to mean that a label is required 
+in accordance with the Hazard Communication Standard.
+ACT MATERIAL (If None, Insert “None.”)
+LI 0001 None
+LI 0002 None
+LI 0003 None
+LI 0004 None
+LI 0005 None
+LI 0006 None
+LI 0007 None
+LI 0008 None
+LI 0009 None
+LI 0010 None
+LI 0011 None
+LI 0012 None
+LI 0013 None
+LI 0014 None
+LI 0015 None
+LI 0017 None
+LI 0018 None
+LI 0019 None
+LI 0020 None
+LI 0021 None
+
+252.223-7004 DRUG-FREE WORK FORCE (SEP 1988)
+(IAW DFARS 223.570-2)
+(Applicable only when exceeding the simplified acquisition threshold and involving access to classified information; or when the 
+Contracting Officer determines the clause is necessary for reasons of national security or for the purpose of protecting the 
+health or safety of those using or affected by the product of, or performance of, the order; and is not applicable when the order 
+is for commercial or commercial-type products (see FAR 12); or performance or partial performance outside the U.S., its 
+territories, and possessions, unless Contracting Officer determines it to be in the best interest of the Government)
+
+252.223-7008 PROHIBITION OF HEXAVALENT CHROMIUM (JUN 2013)
+(IAW DFARS 223.7306, DFARS 212.301(f)(xxi))
+(Applicable to solicitations and contracts for supplies, maintenance and repair services, or construction)
+
+52.224-3     PRIVACY TRAINING (JAN 2017)
+(IAW FAR 24.302(a))
+(Applicable to all solicitations and contracts where contractor employees will have access to a system of records or personally 
+identifiable information)
+
+52.225-13    RESTRICTIONS ON CERTAIN FOREIGN PURCHASES (JUN 2008)
+(IAW FAR 25.1103(a))
+(Applicable to supplies or services involving the furnishing of supplies unless an exception applies)Page 31 of 39
+                                                             FA8232-19-D-0005                                       
+
+252.225-7001 BUY AMERICAN AND BALANCE OF PAYMENTS PROGRAM--BASIC (DEC 2017)
+(IAW DFARS 225.1101(2)(i) and (2)(ii))
+(Applicable except when an exception to the Buy American statute or Balance of Payments Program is known to apply, or if 
+using the clause at 252.225-7021, Trade Agreements; or 252.225-7036, Buy American —Free Trade Agreements—Balance of 
+Payments Program)
+
+252.225-7002 QUALIFYING COUNTRY SOURCES AS SUBCONTRACTORS (DEC 2017)
+(IAW DFARS 225.1101(3))
+(Applicable if one of the following clauses are included: DFARS 252.225-7001, 252.225-7021 or 252.225-7036)
+
+252.225-7004 REPORT OF INTENDED PERFORMANCE OUTSIDE THE UNITED STATES AND 
+CANADA -- SUBMISSION AFTER AWARD (OCT 2015)
+(IAW DFARS 225.7204(b))
+(Applicable to solicitations and contracts for performance outside the United States and Canada over $13.5 million)
+
+252.225-7012 PREFERENCE FOR CERTAIN DOMESTIC COMMODITIES (DEC 2017)
+(IAW DFARS 225.7002-3(a))
+(Applicable when exceeding the simplified acquisition threshold for food; clothing; tents, tarpaulins or covers; cotton and other 
+natural fiber products; woven silk or woven silk blends; spun silk yarn for cartridge cloth; synthetic fabric, coated synthetic 
+fabric; canvas products; wool; or any item of individual equipment (FSC 8465) manufactured from or containing such fibers, 
+yarns, fabrics, or materials; to waste and byproducts of cotton or wool used in the production of propellants and explosives)
+
+252.225-7048 EXPORT-CONTROLLED ITEMS (JUN 2013)
+(IAW DFARS 225.7901-4)
+(Applicable to all solicitations and contracts)
+
+252.226-7001 UTILIZATION OF INDIAN ORGANIZATIONS, INDIAN-OWNED ECONOMIC 
+ENTERPRISES, AND NATIVE HAWAIIAN SMALL BUSINESS CONCERNS (SEP 2004)
+(IAW DFARS 226.104)
+(Applicable to supplies or services exceeding $500,000)
+
+52.227-1     AUTHORIZATION AND CONSENT (DEC 2007)
+(IAW FAR 27.201-2(a)(1))
+(Applicable except when both complete performance and delivery are outside the United States)
+
+52.227-2     NOTICE AND ASSISTANCE REGARDING PATENT AND COPYRIGHT 
+INFRINGEMENT (DEC 2007)
+(IAW FAR 27.201-2(b))
+(Applicable when the simplified acquisition threshold is exceeded except when both complete performance and delivery are 
+outside the United States unless supplies are ultimately to be shipped into one of those areas)
+
+52.228-7     INSURANCE--LIABILITY TO THIRD PERSONS (MAR 1996)
+(IAW FAR 28.311-1)
+(Applicable to cost-reimbursement line items)
+
+52.229-4     FEDERAL, STATE, AND LOCAL TAXES (STATE AND LOCAL ADJUSTMENTS) 
+(FEB 2013)
+(IAW FAR 29.401-3(b))
+(Applicable when the simplified acquisition threshold is exceeded and fixed-price noncompetitive, and performed wholly or 
+partly within the United States, its possessions or territories, Puerto Rico or the Northern Mariana Islands)Page 32 of 39
+                                                             FA8232-19-D-0005                                       
+
+52.230-2     COST ACCOUNTING STANDARDS (DEVIATION 2018-O0015) (MAY 2018) 
+(MAY 2018)
+(IAW DARS Tracking Number: 2018-O0015)
+
+52.230-6     ADMINISTRATION OF COST ACCOUNTING STANDARDS (JUN 2010)
+(IAW FAR 30.201-4(d)(1))
+(Applicable when either clause FAR 52.230-2, 52.230-3, 52.230-4, or 52.230-5 are incorporated)
+
+252.231-7000 SUPPLEMENTAL COST PRINCIPLES (DEC 1991)
+(IAW DFARS 231.100-70)
+(Applicable over $500,000)
+
+52.232-1     PAYMENTS (APR 1984)
+(IAW FAR 32.111(a)(1))
+(Applicable to fixed-price supply or services and non-regulated communication services).
+
+52.232-8     DISCOUNTS FOR PROMPT PAYMENT (FEB 2002)
+(IAW FAR 32.111(b)(1))
+(Applicable to fixed-price supply or fixed-price service)
+
+52.232-11    EXTRAS (APR 1984)
+(IAW FAR 32.111(c)(2))
+(Applicable to fixed-price supply, fixed-price service, or transportation)
+
+52.232-17    INTEREST (MAY 2014)
+(IAW FAR 32.611(a), FAR 32.611(b))
+(Applicable when exceeding the simplified acquisition threshold)
+
+52.232-20    LIMITATION OF COST (APR 1984)
+(IAW FAR 32.706-2(a))
+(Applicable when fully funded and cost-reimbursement)
+
+52.232-23    ASSIGNMENT OF CLAIMS (MAY 2014)
+(IAW FAR 32.806(a)(1))
+(Applicable when the micro-purchase threshold is exceeded, unless the contract will prohibit the assignment of claims (see 
+32.803(b))
+
+52.232-25    PROMPT PAYMENT (JAN 2017)
+(IAW FAR 32.908(c))
+(a) Invoice payments—
+(5) Computing penalty amount. The Government will compute the interest penalty in accordance with the Office of 
+Management and Budget prompt payment regulations at 5 CFR part 1315.
+(i) For the sole purpose of computing an interest penalty that might be due the Contractor, Government 
+acceptance is deemed to occur constructively on the 7th day (unless otherwise specified in this contract) 
+after the Contractor delivers the supplies or performs the services in accordance with the terms and 
+conditions of the contract, unless there is a disagreement over quantity, quality, or Contractor compliance 
+with a contract provision. If actual acceptance occurs within the constructive acceptance period, the 
+Government will base the determination of an interest penalty on the actual date of acceptance. The 
+constructive acceptance requirement does not, however, compel Government officials to accept supplies or 
+services, perform contract administration functions, or make payment prior to fulfilling their Page 33 of 39
+                                                             FA8232-19-D-0005                                       
+responsibilities.
+(Applicable except when the clause at 52.212-4, Contract Terms and Conditions--Commercial Items is included)
+
+52.232-33    PAYMENT BY ELECTRONIC FUNDS TRANSFER--SYSTEM FOR AWARD 
+MANAGEMENT (OCT 2018)
+(IAW FAR 32.1110(a)(1))
+(Applicable for solicitations and contracts that include the provision at 52.204-7 or an agency clause that requires a contractor 
+to be registered in the SAM database and maintain registration until final payment, unless (i) Payment will be made through a 
+third party arrangement; or (ii) An exception listed in 32.1103(a) through (i) applies.)
+
+52.232-39    UNENFORCEABILITY OF UNAUTHORIZED OBLIGATIONS (JUN 2013)
+(IAW FAR 32.706-3)
+(Applicable to all solicitations and contracts)
+
+52.232-40    PROVIDING ACCELERATED PAYMENTS TO SMALL BUSINESS 
+SUBCONTRACTORS (DEC 2013)
+(IAW FAR 32.009-2)
+(Applicable to all solicitations and contracts)
+
+252.232-7003 ELECTRONIC SUBMISSION OF PAYMENT REQUESTS AND RECEIVING REPORTS 
+(DEC 2018)
+(IAW DFARS 232.7004(a))
+(a) Definitions . As used in this clause—
+(1) “Contract financing payment” and “invoice payment” have the meanings given in section 32.001 of the Federal 
+Acquisition Regulation.
+(2) “Electronic form” means any automated system that transmits information electronically from the initiating 
+system to all affected systems. Facsimile, e-mail, and scanned documents are not acceptable electronic forms for 
+submission of payment requests. However, scanned documents are acceptable when they are part of a submission of 
+a payment request made using Wide Area WorkFlow (WAWF) or another electronic form authorized by the 
+Contracting Officer.
+(3) “Payment request” means any request for contract financing payment or invoice payment submitted by the 
+Contractor under this contract.
+(b) Except as provided in paragraph (c) of this clause, the Contractor shall submit payment requests and receiving reports using 
+WAWF, in one of the following electronic formats that WAWF accepts: Electronic Data Interchange, Secure File Transfer 
+Protocol, or World Wide Web input. Information regarding WAWF is available on the Internet at https://wawf.eb.mil/ .
+(c) The Contractor may submit a payment request and receiving report using other than WAWF only when—
+(1) The Contracting Officer authorizes use of another electronic form. With such an authorization, the Contractor and 
+the Contracting Officer shall agree to a plan, which shall include a timeline, specifying when the Contractor will 
+transfer to WAWF;
+(2) DoD is unable to receive a payment request or provide acceptance in electronic form;
+(3) The Contracting Officer administering the contract for payment has determined, in writing, that electronic 
+submission would be unduly burdensome to the Contractor. In such cases, the Contractor shall include a copy of the 
+Contracting Officer’s determination with each request for payment; or
+(4) DoD makes a payment for commercial transportation services provided under a Government rate tender or a 
+contract for transportation services using a DoD-approved electronic third party payment system or other exempted 
+vendor payment/invoicing system ( e.g., PowerTrack, Transportation Financial Management System, and Cargo and 
+Billing System).
+(d) The Contractor shall submit any non-electronic payment requests using the method or methods specified in Section G of the 
+contract.Page 34 of 39
+                                                             FA8232-19-D-0005                                       
+(e) In addition to the requirements of this clause, the Contractor shall meet the requirements of the appropriate payment 
+clauses in this contract when submitting payment requests.
+(Applicable to all orders issued hereunder)
+
+252.232-7009 MANDATORY PAYMENT BY GOVERNMENTWIDE COMMERCIAL PURCHASE CARD 
+(MAY 2018)
+(IAW DFARS 232.1110)
+(Applicable at or below the micro-purchase threshold and Governmentwide commercial purchase card is required)
+
+252.232-7010 LEVIES ON CONTRACT PAYMENTS (DEC 2006)
+(IAW DFARS 232.7102)
+(Applicable to all solicitations and contracts over the micro-purchase threshold issued hereunder)
+
+52.233-1     DISPUTES (MAY 2014)
+(IAW FAR 33.215)
+(Applicable except to foreign governments or their agencies, or to international organizations or a subsidiary body of that 
+organization, if the agency head determines that the application of 41 U.S.C. chapter 71 to the contract would not be in the 
+public interest)
+
+52.233-3     PROTEST AFTER AWARD (AUG 1996)
+(IAW FAR 33.106(b))
+(Applicable to all orders issued hereunder)
+
+52.233-3     PROTEST AFTER AWARD -- ALTERNATE I (JUN 1985)
+(IAW FAR 33.106(b))
+(Applicable to cost reimbursement items)
+
+52.233-4     APPLICABLE LAW FOR BREACH OF CONTRACT CLAIM (OCT 2004)
+(IAW FAR 33.215(b))
+(Applicable to all solicitations and contracts)
+
+52.242-1     NOTICE OF INTENT TO DISALLOW COSTS (APR 1984)
+(IAW FAR 42.802)
+(Applicable when cost-reimbursement, fixed-price incentive, or price redetermination)
+
+52.242-3     PENALTIES FOR UNALLOWABLE COSTS (MAY 2014)
+(IAW FAR 42.709-6)
+
+52.242-4     CERTIFICATION OF FINAL INDIRECT COSTS (JAN 1997)
+(IAW FAR 42.703-2(f))
+(c) The certificate of final indirect costs shall read as follows:
+CERTIFICATE OF FINAL INDIRECT COSTS
+This is to certify that I have reviewed this proposal to establish final indirect cost rates and to the best of my 
+knowledge and belief:
+1. All costs included in this proposal ( identify proposal and date ) to establish final indirect costs rates for 
+(identify period covered by rate ) are allowable in accordance with the cost principles of the Federal 
+Acquisition Regulation (FAR) and its supplements applicable to the contracts to which the final indirect cost 
+rates will apply; andPage 35 of 39
+                                                             FA8232-19-D-0005                                       
+2. This proposal does not include any costs which are expressly unallowable under applicable cost principles 
+of the FAR or its supplements.
+Firm: ___________________________________________________
+Signature: _______________________________________________
+Name of Certifying Official: __________________________________
+Title: ____________________________________________________
+Date of Execution: _________________________________________
+(Applicable for interim reimbursement of indirect costs; establishment of final indirect costs rates; or contract financing that 
+includes interim payment of indirect costs)
+
+52.242-5     PAYMENTS TO SMALL BUSINESS SUBCONTRACTORS (JAN 2017)
+(IAW FAR 42.1504)
+(Applicable to all solicitations and contracts containing the clause 52.219-9, Small Business Subcontracting Plan.)
+
+52.242-13    BANKRUPTCY (JUL 1995)
+(IAW FAR 42.903)
+(Applicable when the simplified acquisition threshold is exceeded)
+
+252.242-7004 MATERIAL MANAGEMENT AND ACCOUNTING SYSTEM (MAY 2011)
+(IAW DFARS 242.7204)
+(Applicable to orders that exceed the simplified acquisition threshold are non-commercial, and are either (a) cost-
+reimbursement orders or (b) fixed-price orders with progress payments made on the basis of costs incurred by the contractor 
+as work progresses under the contract)
+
+5352.242-9000 CONTRACTOR ACCESS TO AIR FORCE INSTALLATIONS (NOV 2012)
+(IAW AFFARS 5342.490-1)
+(a) The contractor shall obtain base identification and vehicle passes, if required, for all contractor personnel who make frequent visits to or 
+perform work on the Air Force installation(s) cited in the contract. Contractor personnel are required to wear or prominently display installation 
+identification badges or contractor-furnished, contractor identification badges while visiting or performing work on the installation.
+(b) The contractor shall submit a written request on company letterhead to the contracting officer listing the following:  contract number, 
+location of work site, start and stop dates, and names of employees and subcontractor employees needing access to the base. The letter will 
+also specify the individual(s) authorized to sign for a request for base identification credentials or vehicle passes. The contracting officer will 
+endorse the request and forward it to the issuing base pass and registration office or Security Forces for processing. When reporting to the 
+registration office, the authorized contractor individual(s) should provide a valid driver's license, current vehicle registration, valid vehicle 
+insurance certificate, to obtain a vehicle pass.
+(c) During performance of the contract, the contractor shall be responsible for obtaining required identification for newly assigned personnel 
+and for prompt return of credentials and vehicle passes for any employee who no longer requires access to the work site.
+(d) When work under this contract requires unescorted entry to controlled or restricted areas, the contractor shall comply with all applicable 
+regulations.
+(e) Upon completion or termination of the contract or expiration of the identification passes, the prime contractor shall ensure that all base 
+identification passes issued to employees and subcontractor employees are returned to the issuing office.
+(f) Failure to comply with these requirements may result in withholding of final payment.
+(The above Clause/Provision has been modified.) 
+
+5352.242-9001 COMMON ACCESS CARDS (CAC) FOR CONTRACTOR PERSONNEL (NOV 2012)
+(IAW AFFARS 5342.490-2)
+
+52.243-1     CHANGES--FIXED-PRICE (AUG 1987)
+(IAW FAR 43.205(a)(1))
+(Applicable to fixed-price supplies)Page 36 of 39
+                                                             FA8232-19-D-0005                                       
+
+52.243-2     CHANGES--COST-REIMBURSEMENT (AUG 1987)
+(IAW FAR 43.205(b)(1))
+(Applicable to cost-reimbursement supplies)
+
+252.243-7001 PRICING OF CONTRACT MODIFICATIONS (DEC 1991)
+(IAW DFARS 243.205-70)
+(Applicable to fixed-price efforts)
+
+252.243-7002 REQUESTS FOR EQUITABLE ADJUSTMENT (DEC 2012)
+(IAW DFARS 243.205-71)
+(Applicable when the simplified acquisition threshold is exceeded)
+
+52.244-2     SUBCONTRACTS (OCT 2010)
+(IAW FAR 44.204(a)(1), FAR 44.204(a)(3))
+(d) If the Contractor has an approved purchasing system, the Contractor nevertheless shall obtain the Contracting Officer's 
+written consent before placing the following subcontracts:
+Subcontracts
+(j) Paragraphs (c) and (e) of this clause do not apply to the following subcontracts, which were evaluated during negotiations:
+Subcontracts
+(Applicable to cost-reimbursement, letter contract exceeding the simplified acquisition threshold, fixed-price exceeding the 
+simplified acquisition threshold under which unpriced actions are anticipated, time-and-materials exceeding the simplified 
+acquisition threshold, or labor-hour contracts exceeding the simplified acquisition threshold)
+
+52.244-5     COMPETITION IN SUBCONTRACTING (DEC 1996)
+(IAW FAR 44.204(c))
+(Applicable exceeding the simplified acquisition threshold when the order/contract results from noncompetitive procedures) 
+
+52.244-6     SUBCONTRACTS FOR COMMERCIAL ITEMS (JAN 2019)
+(IAW FAR 44.403)
+(Applicable to supplies or services other than commercial items)
+
+252.244-7000 SUBCONTRACTS FOR COMMERCIAL ITEMS (JUN 2013)
+(IAW DFARS 244.403)
+(Applicable to solicitations and contracts for supplies or services other than commercial items that contain any of the clauses 
+listed in the clause at 252.244-7000)
+
+252.244-7001 CONTRACTOR PURCHASING SYSTEM ADMINISTRATION--BASIC (MAY 2014)
+(IAW DFARS 244.305-71)
+(Applicable to solicitations and contracts containing the clause at FAR 52.244-2, Subcontracts)
+
+52.245-1     GOVERNMENT PROPERTY (JAN 2017)
+(IAW FAR 45.107(a), DFARS 237.7003(c), DFARS 245.107)
+(Applicable in cost reimbursement, time-and-material, and labor-hour; and fixed-price when the Government will provide 
+Government property. Also commercial where Government property exceeds $100,000)Page 37 of 39
+                                                             FA8232-19-D-0005                                       
+
+52.245-9     USE AND CHARGES (APR 2012)
+(IAW FAR 45.107(c))
+(Applicable when FAR 52.245-1 is included)
+
+252.245-7001 TAGGING, LABELING, AND MARKING OF GOVERNMENT-FURNISHED PROPERTY 
+(APR 2012)
+(IAW DFARS 245.107(2))
+(Applicable to solicitations and contracts containing FAR clause 52.245-1, Government Property)
+
+252.245-7002 REPORTING LOSS OF GOVERNMENT PROPERTY (DEC 2017)
+(IAW DFARS 245.107(3))
+(Applicable to solicitations and contracts containing FAR clause 52.245-1, Government Property)
+
+252.245-7003 CONTRACTOR PROPERTY MANAGEMENT SYSTEM ADMINISTRATION (APR 2012)
+(IAW DFARS 245.107(4))
+(Applicable to solicitations and contracts containing the clause at FAR 52.245-1, Government Property)
+
+252.245-7004 REPORTING, REUTILIZATION, AND DISPOSAL (DEC 2017)
+(IAW DFARS 245.107(5))
+(Applicable to solicitations and contracts containing the clause at FAR 52.245-1, Government Property)
+
+52.246-23    LIMITATION OF LIABILITY (FEB 1997)
+(IAW FAR 46.805(a)(1))
+(Applicable to items that are not high-value items (at or below $100,000 per unit))
+
+252.246-7007 CONTRACTOR COUNTERFEIT ELECTRONIC PART DETECTION AND AVOIDANCE 
+SYSTEM (AUG 2016)
+(IAW DFARS 246.870-3(a))
+
+52.247-1     COMMERCIAL BILL OF LADING NOTATIONS (FEB 2006)
+(IAW FAR 47.104-4(a), FAR 47.104-4(b))
+(Applicable when fixed-price f.o.b. origin or Cost-reimbursement are specified)
+
+52.247-67    SUBMISSION OF TRANSPORTATION DOCUMENTS FOR AUDIT (FEB 2006)
+(IAW FAR 47.103-2)
+(c) Contractors shall submit the above referenced transportation document to—
+____________________________ 
+____________________________ 
+____________________________ 
+(Applicable to cost reimbursement orders that authorize reimbursement of transportation as a direct charge)
+
+52.247-68    REPORT OF SHIPMENT (REPSHIP) (FEB 2006)
+(IAW FAR 47.208-2)
+(Applicable to solicitations and contracts when advance notice of shipment is required)
+
+252.247-7023 TRANSPORTATION OF SUPPLIES BY SEA--BASIC (APR 2014)
+(IAW DFARS 247.574(b))
+(Applicable when procedures other than for direct purchase of ocean transportation services are utilized)Page 38 of 39
+                                                             FA8232-19-D-0005                                       
+
+52.248-1     VALUE ENGINEERING (OCT 2010)
+(IAW FAR 48.201(b), FAR 48.201(f))
+
+52.249-2     TERMINATION FOR CONVENIENCE OF THE GOVERNMENT (FIXED-PRICE) 
+(APR 2012)
+(IAW FAR 49.502(b)(1)(i))
+(Applicable over the simplified acquisition threshold, except as specified in FAR 49.502(b)(1)(i)(A), (B) or (C))
+
+52.249-6     TERMINATION (COST-REIMBURSEMENT) (MAY 2004)
+(IAW FAR 49.503(a)(1))
+(Applicable to cost-reimbursement except contracts for research and development with an educational or nonprofit institution 
+on a no-fee basis)
+
+52.249-8     DEFAULT (FIXED-PRICE SUPPLY AND SERVICE) (APR 1984)
+(IAW FAR 49.504(a)(1))
+(Applicable when fixed-price is contemplated and exceeds the simplified acquisition threshold)
+
+52.249-14    EXCUSABLE DELAYS (APR 1984)
+(IAW FAR 49.505(b))
+(Applicable to supplies, services, construction, and research and development on a fee basis, when a cost-reimbursement. Also 
+applicable to time-and-material and labor-hour)
+
+52.252-2     CLAUSES INCORPORATED BY REFERENCE (FEB 1998)
+(IAW FAR 52.107(b))
+This contract incorporates one or more clauses by reference, with the same force and effect as if they were given in full text. 
+Upon request, the Contracting Officer will make their full text available. Also, the full text of a clause may be accessed 
+electronically at this/these address(es):
+Regulations URLs:  (Click on the appropriate regulation.)
+http://farsite.hill.af.mil/reghtml/regs/far2afmcfars/fardfars/far/far1toc.htm
+http://farsite.hill.af.mil/reghtml/regs/far2afmcfars/fardfars/dfars/dfarTOC.htm
+http://farsite.hill.af.mil/reghtml/regs/far2afmcfars/af_afmc/affars/affar1toc.htm
+NOTE: After selecting the appropriate regulation above, at the "Table of Contents" page, conduct a search for the desired 
+regulation reference using your browser's FIND function. When located, click on the regulation reference (hyperlink).
+(Applicable to all orders issued hereunder)
+
+52.253-1     COMPUTER GENERATED FORMS (JAN 1991)
+(IAW FAR 53.111)
+(Applicable when requiring the contractor to submit data on Standard or Optional Forms prescribed by this regulation; and, 
+unless prohibited by agency regulations, forms prescribed by agency supplements)
+
